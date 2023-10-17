@@ -16,7 +16,7 @@ Project consists of creating bracket matching function with two different method
 
 <h2>Program sample output:</h2>
 
-<p align="center">Terminal Output:</p>
+<p align="center">Correct Bracket Output:</p>
 <p align="center">
   <img src="./Photos/LinkedListOutput.png" alt="Alt Text" width="1100" height="250">
 </p>
