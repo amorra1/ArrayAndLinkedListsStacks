@@ -18,7 +18,7 @@ Project consists of creating bracket matching function with two different method
 
 <p align="center">Correct Bracket Output:</p>
 <p align="center">
-  <img src="./photos/correctBracketOutput.png" alt="Alt Text" width="1100" height="200">
+  <img src="./photos/correctBracketOutput.png" alt="Alt Text" width="1100" height="150">
 </p>
 <p align="center">Mismatched Bracket Output:</p>
 <p align="center">
